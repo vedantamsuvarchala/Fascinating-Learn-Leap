@@ -1,4 +1,4 @@
-# 🚀 Fascinating Learn Leap
+<img width="1502" height="922" alt="image" src="https://github.com/user-attachments/assets/a5013077-3f58-455f-b33c-be455e43c545" /># 🚀 Fascinating Learn Leap
 
 > An interactive learning platform designed to make learning more engaging, accessible, and structured.
 
@@ -50,7 +50,7 @@ Traditional learning experiences can sometimes become difficult to navigate, les
 
 * Base44
 
-> **Note:** Update this section with the exact technologies used in the project if additional frameworks, APIs, databases, or AI services are included.
+> **Note:** Also many other additional frameworks, APIs, databases, and  AI services are included.
 
 ---
 
@@ -88,6 +88,7 @@ Screenshots of the application can be added here.
 ```
 
 ---
+
 
 ## 💡 Why I Built This
 
