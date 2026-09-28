@@ -1,4 +1,4 @@
-<img width="1502" height="922" alt="image" src="https://github.com/user-attachments/assets/a5013077-3f58-455f-b33c-be455e43c545" /># 🚀 Fascinating Learn Leap
+# 🚀 Fascinating Learn Leap
 
 > An interactive learning platform designed to make learning more engaging, accessible, and structured.
 
