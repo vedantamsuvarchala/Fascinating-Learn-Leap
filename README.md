@@ -73,23 +73,6 @@ Try the application here:
 👉 **https://fascinating-learn-leap-flow.base44.app**
 
 ---
-
-## 📸 Screenshots
-
-Screenshots of the application can be added here.
-
-
-<img width="717" height="921" alt="image" src="https://github.com/user-attachments/assets/32b9ad87-43a6-4967-8e5f-958076ed5b24" />
-<img width="1842" height="863" alt="image" src="https://github.com/user-attachments/assets/9b0cfaee-f739-4057-89e9-764af9296ce8" />
-<img width="1552" height="832" alt="image" src="https://github.com/user-attachments/assets/6eabe82c-3071-412b-804b-bfc5606d4014" />
-<img width="1502" height="922" alt="image" src="https://github.com/user-attachments/assets/74bacf45-c8e7-425d-b31f-178f33801e4a" />
-
-
-```
-
----
-
-
 ## 💡 Why I Built This
 
 This project was developed as part of my journey toward building practical, user-focused applications and exploring modern AI-assisted application development.
@@ -128,3 +111,14 @@ If you find this project interesting, consider giving the repository a ⭐ and e
 
 **Live Demo:**
 https://fascinating-learn-leap-flow.base44.app
+
+---
+## 📸 Screenshots
+
+Screenshots of the application can be added here.
+
+
+<img width="717" height="921" alt="image" src="https://github.com/user-attachments/assets/32b9ad87-43a6-4967-8e5f-958076ed5b24" />
+<img width="1842" height="863" alt="image" src="https://github.com/user-attachments/assets/9b0cfaee-f739-4057-89e9-764af9296ce8" />
+<img width="1552" height="832" alt="image" src="https://github.com/user-attachments/assets/6eabe82c-3071-412b-804b-bfc5606d4014" />
+<img width="1502" height="922" alt="image" src="https://github.com/user-attachments/assets/74bacf45-c8e7-425d-b31f-178f33801e4a" />
