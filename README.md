@@ -187,22 +187,20 @@ Try the application here:
 ## 📸 Screenshots
 
 ### 🏠 Application Interface
-
-![Fascinating Learn Leap](https://private-user-images.githubusercontent.com/231734488/660500146-32b9ad87-43a6-4967-8e5f-958076ed5b24.png)
+<img width="717" height="921" alt="Screenshot 2026-09-28 224946" src="https://github.com/user-attachments/assets/cb90f86d-50da-4468-bdf3-d3e507edb603" />
 
 ### 📚 Learning Experience
-
-![Fascinating Learn Leap](https://private-user-images.githubusercontent.com/231734488/660500604-9b0cfaee-f739-4057-89e9-764af9296ce8.png)
+<img width="1897" height="906" alt="Screenshot 2026-09-28 224916" src="https://github.com/user-attachments/assets/42b14d23-2386-4144-9c1b-98d44f9a26a3" />
 
 ### 📊 Dashboard
-
-![Fascinating Learn Leap](https://private-user-images.githubusercontent.com/231734488/660501257-6eabe82c-3071-412b-804b-bfc5606d4014.png)
+<img width="1842" height="863" alt="Screenshot 2026-09-28 225019" src="https://github.com/user-attachments/assets/f55c7e92-4877-4aad-a88e-2b74c36870d1" />
 
 ### 🎓 Course / Learning Interface
-
-![Fascinating Learn Leap](https://private-user-images.githubusercontent.com/231734488/660501636-74bacf45-c8e7-425d-b31f-178f33801e4a.png)
+<img width="1552" height="832" alt="Screenshot 2026-09-28 225102" src="https://github.com/user-attachments/assets/b1f660d1-60c0-4bd6-b640-42e08546b347" />
+<img width="1502" height="922" alt="Screenshot 2026-09-28 225138" src="https://github.com/user-attachments/assets/7c95f758-2e27-4087-9d70-df71b954d028" />
 
 ---
+
 
 ## 💡 Why I Built This
 
